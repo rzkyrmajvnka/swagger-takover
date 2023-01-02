@@ -3,7 +3,7 @@ info:
   version: "v1"
   title: Please login first
 
-host: http://127.0.0.1:4040
+host: https://9f35-114-124-211-138.ngrok.io
 
 paths:
 
